@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Allow: /admin/images/
+Allow: /uploads/
+
+Disallow: /delete_ad.php
+Disallow: /update_ads.php
+
+Sitemap: https://karaksooq.com/sitemap.php

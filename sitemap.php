@@ -12,7 +12,7 @@ echo "<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>\n";
 // Base URL 
 $site_url="";
 
-// Static Pages
+// Static Pag
 $static_pages = [
     "index.php" => "1.0",
     "post_ad.php" => "0.8",

@@ -10,7 +10,7 @@ echo "<?xml version='1.0' encoding='UTF-8'?>\n";
 echo "<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>\n";
 
 // Base URL (Update to your actual domain)
-$site_url="https://karaksooq.com";
+$site_url="";
 
 // Static Pages
 $static_pages = [

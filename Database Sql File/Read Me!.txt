@@ -1,5 +1,0 @@
-Connection File Address
-
-admin/includes/config.php
-
-change your connection detail with this path
